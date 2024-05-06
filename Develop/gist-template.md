@@ -97,3 +97,9 @@ A lookbehind assertion "looks behind": it attempts to match the previous input w
 ## Author
 
 Robin Langton is a junior full-stack web developer. You can find more of her projects posted on her [Github page](https://github.com/rrlangton)!
+
+### Sources
+
+- [The Full Stack Blog](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/write-regular-expressions/)
+- [Stack Overflow](https://stackoverflow.com/questions/42557392/what-is-the-difference-between-an-anchored-regex-and-an-un-anchored-regex)
